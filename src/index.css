@@ -16,6 +16,7 @@ body,
 
 main{
   display: flex;
+  background-color: hotpink;
 }
 .contacts-container{
   margin: 20px;
